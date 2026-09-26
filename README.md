@@ -1,42 +1,43 @@
-HR Analytics Dashboard
+# HR Analytics Dashboard
 
-📊 Project Overview
+## 📊 Project Overview
 
-This project is an interactive HR Analytics Dashboard created using Power BI and Excel to analyze employee attrition and understand different HR trends.
+This project is an interactive **HR Analytics Dashboard** created using **Power BI and Excel** to analyze employee attrition and understand different HR trends.
 
 The dashboard provides insights into employee attrition based on factors such as gender, education, age group, job role, salary slab, and years at company.
 
-🛠️ Tools Used
-Power BI
-Microsoft Excel
-Power Query
-DAX
-📈 Key KPIs
-Total Employees
-Total Attrition
-Attrition Rate
-Average Years at Company
-📊 Dashboard Analysis
+## 🛠️ Tools Used
+
+* Power BI
+* Microsoft Excel
+* Power Query
+* DAX
+
+## 📈 Key KPIs
+
+* Total Employees
+* Total Attrition
+* Attrition Rate
+* Average Years at Company
+
+## 📊 Dashboard Analysis
 
 The dashboard analyzes employee attrition across:
 
-Gender
-Education
-Age Group
-Job Role
-Salary Slab
-Years at Company
+* Gender
+* Education
+* Age Group
+* Job Role
+* Salary Slab
+* Years at Company
 
 Interactive filters and visualizations are used to explore the HR data.
 
-📁 Project Files
 
-hr analytics.pbix – Power BI dashboard
-HR_Analytics.xlsx – Dataset used for analysis
+## 🎯 Objective
 
-🎯 Objective
 The objective of this project is to analyze employee attrition patterns and present HR insights through an interactive Power BI dashboard.
 
-👩‍💻 Author
+## 👩‍💻 Author
 
-Swati Saini
+**Swati Saini**
