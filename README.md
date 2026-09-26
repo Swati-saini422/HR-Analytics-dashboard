@@ -29,6 +29,7 @@ Years at Company
 Interactive filters and visualizations are used to explore the HR data.
 
 📁 Project Files
+
 hr analytics.pbix – Power BI dashboard
 HR_Analytics.xlsx – Dataset used for analysis
 
