@@ -31,8 +31,8 @@ Interactive filters and visualizations are used to explore the HR data.
 📁 Project Files
 hr analytics.pbix – Power BI dashboard
 HR_Analytics.xlsx – Dataset used for analysis
-🎯 Objective
 
+🎯 Objective
 The objective of this project is to analyze employee attrition patterns and present HR insights through an interactive Power BI dashboard.
 
 👩‍💻 Author
